@@ -11,6 +11,7 @@ namespace SnakeGame
         static void Main(string[] args)
         {
             // hello world
+            Console.WriteLine("Hello world");
         }
     }
 }
